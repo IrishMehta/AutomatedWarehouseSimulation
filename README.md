@@ -137,7 +137,7 @@ Below the grid, the visualization shows:
 - Current quantities on each shelf
 - Remaining order requirements
 
-[Video Placeholder: Console output showing the dynamic visualization of the warehouse operations]
+[![Warehouse Visualization](https://github.com/IrishMehta/AutomatedWarehouseSimulation/blob/master/warehouse_viz.mp4)](https://github.com/IrishMehta/AutomatedWarehouseSimulation/blob/master/warehouse_viz.mp4)
 
 ## Usage
 
